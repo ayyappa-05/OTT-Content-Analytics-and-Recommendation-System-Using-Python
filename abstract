@@ -1,0 +1,18 @@
+Abstract
+Project Title:
+
+OTT Content Analytics and Recommendation System Using Python
+
+Project Description (10 Lines):
+
+The project focuses on analyzing OTT platform content using Python-based data analytics techniques.
+It combines datasets from multiple platforms such as Netflix, Prime Video, and Disney+ to understand content trends.
+The system analyzes movies and TV shows based on genre, ratings, release year, language, and popularity.
+Data cleaning and preprocessing techniques are applied to improve dataset quality.
+Exploratory Data Analysis (EDA) is performed to identify patterns and trends in OTT content.
+A recommendation system is developed to suggest suitable content based on user preferences.
+Sentiment analysis is performed on user reviews to understand audience opinions.
+Machine learning techniques are used for genre trend and popularity prediction.
+Data visualization techniques represent insights through charts and graphs.
+The final system helps OTT platforms understand viewer behavior and improve content recommendations.
+
